@@ -1,3 +1,3 @@
 # apnacollege-demo
 This is my first git repository
-author = Dhwanee jain
+author = Nehal jain
